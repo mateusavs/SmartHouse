@@ -1,0 +1,19 @@
+A string que é enviada do app para o servidor atualmente é:
+
+XXXXXX/?a0high   ou
+
+XXXXXX/?a0low    ou
+
+XXXXXX/?a1high   
+e assim por diante, 
+onde o XXXXXXX é o endereço IP que cadastramos no app.
+
+
+
+Na volta, ele devolve como string o status de todas as chaves, da seguinte forma:
+
+
+
+azerooffaoneonatwooffathreeoffafourondtwooffdthreeondfouroffdfiveoffdsixon
+
+http://casaandredavila1.no-ip.org:8090
